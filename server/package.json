@@ -1,0 +1,21 @@
+{
+	"name": "mesa-lsp",
+	"description": "Mesa languge server",
+	"version": "1.0.0",
+	"author": "Octamap",
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/octamap/mesa-vs-code"
+	},
+	"dependencies": {
+		"typescript": "^5.7.3",
+		"vscode-languageserver": "^9.0.1",
+		"vscode-languageserver-textdocument": "^1.0.11",
+		"vscode-uri": "^3.1.0"
+	},
+	"scripts": {}
+}
