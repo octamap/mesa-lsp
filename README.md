@@ -1,7 +1,3 @@
-Got it! Here's a clean and accurate `README.md` for the **Mesa LSP** repository, framed as an internal/shared tool used by other projects (like the Mesa VS Code extension) — **not** something users install directly:
-
----
-
 # ⚙️ **Mesa Language Server (LSP)**
 
 This repository contains the **Mesa Language Server**, which powers editor features like completions and semantic highlighting for [Mesa](https://github.com/octamap/mesa), the build-time HTML component engine.
